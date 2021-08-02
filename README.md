@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeevan</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer with over 2 and half years of experiance currently living in Bengaluru, Karnataka, India</h3>
 
 - 🌱 I’m currently learning **Machine Learning and AI**
 
