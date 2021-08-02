@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeevan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **variours awesome projects at Inkoop**
-
-- 🌱 I’m currently learning **Ruby on Rails, JS and React**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
 - 💬 Ask me about **Python, Django, DRF, Web Scraping and SlackBots**
 
