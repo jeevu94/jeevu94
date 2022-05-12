@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeevan</h1>
-<h3 align="center">A passionate Software developer with over 2 and half years of experiance currently living in Bengaluru, Karnataka, India</h3>
+<h3 align="center">Machine Learning Associate @Gfactors.co.in. | Ex-Software developer with over 2 and half years of experiance. | Currently living in Bengaluru, Karnataka, India</h3>
 
 - 🌱 I’m currently learning **Machine Learning and AI**
 
@@ -15,6 +15,3 @@
 <a href="https://medium.com/@jeevu94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jeevu94" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jeevu94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jeevu94" height="30" width="40" /></a>
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-jeevu94.vercel.app/api?username=jeevu94&show_icons=true&count_private=true&theme=prussian&custom_title=My GitHub Stats&hide=issues,contribs&locale=en" alt="jeevu94" /></p>
