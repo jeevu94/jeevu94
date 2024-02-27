@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeevan</h1>
 <h3 align="center">Software developer with over 4 years of experience.</h3>
 
-- 🌱 I’m currently learning **Machine Learning and AI**
+- 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Python, Django, DRF, Web Scraping and SlackBots**
+- 💬 Ask me about **Python, Django, DRF, Web Scraping, SlackBots, Machine Learning and AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
